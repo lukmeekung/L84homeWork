@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\bin\Debug\L84ArrayList.exe.config
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\bin\Debug\L84ArrayList.exe
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\bin\Debug\L84ArrayList.pdb
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList_MarkupCompile.cache
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList_MarkupCompile.lref
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.g.resources
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.Properties.Resources.resources
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.exe
+C:\Users\USER\source\repos\L84ArrayList\L84ArrayList\obj\Debug\L84ArrayList.pdb
